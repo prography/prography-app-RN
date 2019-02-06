@@ -4,6 +4,7 @@
 기능 기획이 아직 마무리되지 않았으며, 일부 변동이 발생할 수 있습니다. (2019. 02.05)
 
 
+
 ## Language & Framework
 
 안드로이드와 iOS 모두를 지원하기 위하여 React Native 프로젝트로 진행합니다.
@@ -20,6 +21,6 @@
 
 
 
-## Attributer (작업자 본인이 직접 추가해주세요!)
+## 프로젝트 기여자 명단 (작업자 본인이 직접 추가해주세요!)
 - blueStragglr(Oortcloud1599@artifriends.com / 신성환)
 
